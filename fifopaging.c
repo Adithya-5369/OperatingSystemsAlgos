@@ -1,3 +1,5 @@
+/* First In First Out Page Replacement Algo*/
+
 #include<stdio.h> 
 
 int main()
