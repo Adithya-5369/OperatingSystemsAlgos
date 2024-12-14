@@ -1,3 +1,5 @@
+/* Least Recently Used Page Replacement Algo*/
+
 #include<stdio.h>
 #include<limits.h>
 
