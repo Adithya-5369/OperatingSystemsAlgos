@@ -1,3 +1,5 @@
+/* Optimal Page Replacement Algo*/
+
 #include<stdio.h> 
 
 int linearSearch(int arr[], int size, int key){
